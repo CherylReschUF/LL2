@@ -1,4 +1,3 @@
-SONAR_SCANNER_VERSION:
 
 name: Build
 on:
